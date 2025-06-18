@@ -204,7 +204,7 @@ If you decide to use this for a project, you must provide credit of this GitHub 
 | 17.40-CL-N/A             | 11-05-21        	 | UE4.26.1           	                    |		N/A|
 | 17.50-CL-N/A	                | 03-06-22         	 | UE4.26.1            	    |		https://public.simplyblk.xyz/17.50.zip|
 
-# Season 18 N/A
+# Season 18 
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 18.00-CL-N/A	                | 16-03-21         	 | UE4.26            	    |	(https://drive.google.com/file/d/1aFVVvbmrrK7BykqTVS3XR6nB-Asib5gq/view)|
@@ -222,7 +222,8 @@ If you decide to use this for a project, you must provide credit of this GitHub 
 # Season 20
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 20.40-CL-N/A	                | N/A         	 | N/A           	    |	 https://public.simplyblk.xyz/20.40.zip|
+| 20.10-CL-N/A                 | N/A           | N/A                | https://store-eu-par-2.gofile.io/download/web/c216f08d-e11e-408e-96d5-462c0c76a30f/%2B%2BFortnite%2BRelease-20.10-CL-19598943.zip |
+| 20.40-CL-N/A	                | N/A         	 | N/A           	    |	 N/A |
 
 
 ## Season 21
