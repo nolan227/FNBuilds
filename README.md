@@ -200,19 +200,19 @@ If you decide to use this for a project, you must provide credit of this GitHub 
 | 17.00-CL-N/A	                | 16-03-21         	 | UE4.26            	    |		N/A|
 | 17.10-CL-N/A	                | 30-03-21         	 | UE4.26            	    |		N/A|
 | 17.20-CL-N/A	                | 13-04-21         	 | UE4.26            	    |		N/A|
-| 17.30-CL-N/A	                | 27-04-21        	 | UE4.26            	    |		https://public.simplyblk.xyz/17.30.zip|
+| 17.30-CL-N/A	                | 27-04-21        	 | UE4.26            	    |		N/A|
 | 17.40-CL-N/A             | 11-05-21        	 | UE4.26.1           	                    |		N/A|
 | 17.50-CL-N/A	                | 03-06-22         	 | UE4.26.1            	    |		https://public.simplyblk.xyz/17.50.zip|
 
-# Season 18
+# Season 18 N/A
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 18.00-CL-N/A	                | 16-03-21         	 | UE4.26            	    |		N/A|
+| 18.00-CL-N/A	                | 16-03-21         	 | UE4.26            	    |	(https://drive.google.com/file/d/1aFVVvbmrrK7BykqTVS3XR6nB-Asib5gq/view)|
 | 18.10-CL-N/A	                | 30-03-21         	 | UE4.26            	    |		N/A|
 | 18.20-CL-N/A	                | 13-04-21         	 | UE4.26            	    |		N/A|
 | 18.21-CL-N/A	                | 27-04-21        	 | UE4.26            	    |		N/A|
 | 18.30-CL-N/A             | 11-05-21        	 | UE4.26.1           	                    |		N/A|
-| 18.40-CL-N/A	                | 03-06-22         	 | UE4.26.1            	    |		https://public.simplyblk.xyz/18.40.zip|
+| 18.40-CL-N/A	                | 03-06-22         	 | UE4.26.1            	    |		N/A|
 
 # Season 19
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
