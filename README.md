@@ -5,11 +5,9 @@ The largest Fortnite Builds Archive maintained by Koil & Rust.
 
 ## Usage & Other information.
 
-Credits: Tsir And Koil For Putting this together!
+Credits: RnSNolan For Putting this together!
 
 If you wish to contribute anything that isn't listed here, DM us On Discord!
-
-If you decide to use this for a project, you must provide credit of this GitHub repo.
 
 # Downloads
 
