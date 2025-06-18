@@ -1,7 +1,7 @@
 # Fortnite Builds
-The largest Fortnite Builds Archive maintained by Koil & Rust. 
+The largest Fortnite Builds Archive maintained by RnSNolan. 
 
-## We Combined alot of fortnite builds to create the ultimate fortnite builds archive!
+
 
 ## Usage & Other information.
 
