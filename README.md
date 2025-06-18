@@ -1,7 +1,7 @@
 # Fortnite Builds
 The largest Fortnite Builds Archive maintained by RnSNolan. 
 
-## Hi, so there's a little problem with the links, I'm going to change all that 😊
+## Hi, so there's a little problem with the links, I'm going to change all that 
 
 
 ## Usage & Other information.
