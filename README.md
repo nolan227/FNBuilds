@@ -299,15 +299,15 @@ v14.60 - 33,34 GB | The Devourer of Worlds┃ Play using Carbon or Rift
 
 v16.50 - 38,0 GB | Zero Crisis┃ Play using Carbon
 
-v17.30 - 41,3 GB | Rift Tour┃ Play using Carbon but it's bugged
+v17.30 - 41,3 GB | Rift Tour┃ soon to add
 
-v17.50 - 41,7 GB | Operation: Sky Fire┃ Play using Carbon
+v17.50 - 41,7 GB | Operation: Sky Fire┃ Play using Carbon -bugged
 
-v18.40 - 43,1 GB | Chapter 2 Finale┃ Play using Carbon
+v18.40 - 43,1 GB | Chapter 2 Finale┃ Play using Carbon -bugged
 
-v20.40 - 37,9 GB | Collision / Collider Pulse┃ Play using Carbon
+v20.40 - 37,9 GB | Collision / Collider Pulse┃ Play using Carbon -bugged
 
-v22.40 - 35,2 GB | Fracture - Chapter 3 Finale┃ Play using Carbon but it's bugged
+v22.40 - 35,2 GB | Fracture - Chapter 3 Finale┃ soon to add
 
 v27.11 - 31,1 GB | The Big Bang | Play using Carbon
 
