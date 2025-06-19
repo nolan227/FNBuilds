@@ -3,7 +3,6 @@ The largest Fortnite Builds Archive maintained by RnSNolan.
 
 ## Hi, so there's a little problem with the links, I'm going to change all that 
 
-
 ## Usage & Other information.
 
 Credits: RnSNolan For Putting this together!
