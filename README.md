@@ -29,7 +29,7 @@ If you wish to contribute anything that isn't listed here, DM us On Discord!
 | 1.9.1-CL-3775276        	| 29-11-17       	 | UE4.16-3775276	    |		https://builds.rebootfn.org/1.8.rar|
 | 1.10-CL-3790078	  	| 06-12-17	   	 | UE4.19-3790078	    |	https://builds.rebootfn.org/1.10.rar|
  
-# Season 2
+# Season 2 (Works)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ |------------------------------- |
 | 1.11-CL-3807424         	| 14-12-17		 | UE4.19-3807424	    |		https://public.simplyblk.xyz/1.11.zip|
@@ -40,7 +40,7 @@ If you wish to contribute anything that isn't listed here, DM us On Discord!
 | 2.4.2-CL-3870737        	| 07-02-18	  	 | UE4.19-3870737	    |		https://public.simplyblk.xyz/2.4.2.zip|
 | 2.5.0-CL-3889387        	| 13-02-18       	 | UE4.20-3889387	    |	        https://public.simplyblk.xyz/2.5.0.rar|
 
-# Season 3
+# Season 3 (Works)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 3.0-CL-3901517	 	| 21-02-18	   	 | UE4.20-3901517	    |	https://public.simplyblk.xyz/3.0.zip |
@@ -51,7 +51,7 @@ If you wish to contribute anything that isn't listed here, DM us On Discord!
 | 3.5-CL-4008490          	| 11-04-18       	 | UE4.20-4008490	    | 		https://public.simplyblk.xyz/3.5.rar|
 | 3.6-CL-4019403          	| 24-04-18       	 | UE4.20-4019403	    | 		https://public.simplyblk.xyz/3.6.zip|
 
-# Season 4
+# Season 4 (Works)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 4.0-CL-4039451          	| 02-05-18       	 | UE4.20-4039451	    |		https://public.simplyblk.xyz/4.0.zip|
@@ -61,7 +61,7 @@ If you wish to contribute anything that isn't listed here, DM us On Discord!
 | 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20-4127312 	    |		N/A |
 | 4.5-CL-4159770          	| 27-06-18       	 | UE4.20-4159770 	    |		https://public.simplyblk.xyz/4.5.rar|
 
-# Season 5
+# Season 5 (Works)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 5.00-CL-4204761  	  	| 12-07-18       	 | UE4.21-4204761	    |		https://public.simplyblk.xyz/5.00.rar|
@@ -72,7 +72,7 @@ If you wish to contribute anything that isn't listed here, DM us On Discord!
 | 5.40-CL-4352937         	| 05-09-18       	 | UE4.21-4352937	    |		https://public.simplyblk.xyz/5.40.rar|
 | 5.41-CL-4363240         	| 19-09-18       	 | UE4.21-4363240	    |		N/A|
 
-# Season 6
+# Season 6 (Works)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 6.00-CL-4395664         	| 27-09-18       	 | UE4.21-4395664	    |		https://public.simplyblk.xyz/6.00.rar|
@@ -90,7 +90,7 @@ If you wish to contribute anything that isn't listed here, DM us On Discord!
 | 6.30-CL-4573096         	| 13-11-18       	 | UE4.21-4573096	    |		https://public.simplyblk.xyz/6.30.rar|
 | 6.31-CL-4573279      	  	| 27-11-18       	 | UE4.21-4573279	    |		https://public.simplyblk.xyz/6.31.rar|
 
-# Season 7
+# Season 7 (Works)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 7.00-CL-4629139         	| 06-12-18       	 | UE4.22-4629139	    |		https://public.simplyblk.xyz/7.00.rar|
@@ -99,7 +99,7 @@ If you wish to contribute anything that isn't listed here, DM us On Discord!
 | 7.30-CL-4834550         	| 29-01-19       	 | UE4.22-4834550	    |		https://public.simplyblk.xyz/7.30.zip|
 | 7.40-CL-5046157         	| 13-02-19       	 | UE4.22-5046157	    |		https://public.simplyblk.xyz/7.40.rar|
 
-# Season 8
+# Season 8 (Works)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 8.00-CL-5203069	              | 28-02-19         	 | UE4.22            	    |		https://public.simplyblk.xyz/8.00.zip|
@@ -112,7 +112,7 @@ If you wish to contribute anything that isn't listed here, DM us On Discord!
 | 8.50-CL-6058028	        | 25-04-19       	 | UE4.23            	    |		https://public.simplyblk.xyz/8.50.zip|
 | 8.51-CL-N/A	                | 02-05-19         	 | UE4.23            	    |		https://public.simplyblk.xyz/8.51.rar|
 
-# Season 9
+# Season 9 (Works)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 9.00-CL-6337466	              | 09-05-19        	  | UE4.23            	    |		https://public.simplyblk.xyz/9.00.zip|
@@ -124,7 +124,7 @@ If you wish to contribute anything that isn't listed here, DM us On Discord!
 | 9.40-CL-7315705               | 17-07-19         	 | UE4.23            	    |		https://public.simplyblk.xyz/9.40.zip|
 | 9.41-CL-7609292	              | 23-07-19         	 | UE4.23            	    |		https://public.simplyblk.xyz/9.41.rar|
 
-# Season X/10
+# Season X/10 (Works)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 10.00-CL-7704164	             | 01-08-19         	     | UE4.23            |	https://public.simplyblk.xyz/10.00.zip|
@@ -134,13 +134,13 @@ If you wish to contribute anything that isn't listed here, DM us On Discord!
 | 10.31-CL-8723043	             | 18-09-19         	     | UE4.23            |	https://public.simplyblk.xyz/10.31.zip|
 | 10.40-CL-9380822           	  | 25-09-19         	     | UE4.23            |		https://public.simplyblk.xyz/10.40.rar|
 
-# Season 11
+# Season 11 (Works)
 | Build                         | Date           	 |  Engine Version	    |		    Download links                     |
 | ----------------------------- | ---------------- | ------------------- | --------------------------------------- |
 | 11.00-CL-9603448	             | 15-10-19         | UE4.24              |	 https://public.simplyblk.xyz/11.00.zip|
 | 11.31-CL-N/A	                 | N/A         	    | N/A                 |	 https://public.simplyblk.xyz/11.31.rar|
  
-# Season 12
+# Season 12 (Works)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 12.00-CL-N/A	                | 20-02-20         	 | UE4.24            	    |		https://public.simplyblk.xyz/12.00.rar|
@@ -154,13 +154,13 @@ If you wish to contribute anything that isn't listed here, DM us On Discord!
 | 12.60-CL-N/A	                | 20-05-20         	 | UE4.25            	    |		N/A|
 | 12.61-CL-N/A	                | 26-05-20         	 | UE4.25            	    |		https://public.simplyblk.xyz/12.61.zip|
 
-# Season 13
+# Season 13 (Works)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 13.00-CL-N/A	                | 27-09-20         	 | UE4.26            	    |		https://public.simplyblk.xyz/13.00.rar|
 | 13.40-CL-14113327	                | 27-09-20         	 | UE4.26            	    |	https://public.simplyblk.xyz/13.40.zip|
 
-# Season 14
+# Season 14 (Works)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 14.00-CL-N/A	                | 27-09-20         	 | UE4.26            	    |		https://public.simplyblk.xyz/14.00.rar|
@@ -171,7 +171,7 @@ If you wish to contribute anything that isn't listed here, DM us On Discord!
 | 14.50-CL-N/A	                | 03-11-20         	 | UE4.26            	    |		N/A|
 | 14.60-CL-14786821           | 18-11-20        	  | UE4.26            	    |		https://public.simplyblk.xyz/14.60.rar|
 
-# Season 15
+# Season 15 (Works)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 15.00-CL-N/A	                | 02-12-20         	 | UE4.26            	    |		N/A|
@@ -182,7 +182,7 @@ If you wish to contribute anything that isn't listed here, DM us On Discord!
 | 15.40-CL-N/A	                | 16-02-21         	 | UE4.26            	    |		N/A|
 | 15.50-CL-N/A	                | 02-03-21         	 | UE4.26            	    |		N/A|
 
-# Season 16
+# Season 16 (Works)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 16.00-CL-N/A	                | 16-03-21         	 | UE4.26            	    |		N/A|
@@ -192,7 +192,7 @@ If you wish to contribute anything that isn't listed here, DM us On Discord!
 | 16.40-CL-16218553             | 11-05-21        	 | UE4.26.1           	                    |		https://public.simplyblk.xyz/16.40.rar|
 | 16.50-CL-N/A	                | 03-06-22         	 | UE4.26.1            	    |		N/A|
 
-# Season 17
+# Season 17 (Works)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 17.00-CL-N/A	                | 16-03-21         	 | UE4.26            	    |		N/A|
@@ -202,7 +202,7 @@ If you wish to contribute anything that isn't listed here, DM us On Discord!
 | 17.40-CL-N/A             | 11-05-21        	 | UE4.26.1           	                    |		N/A|
 | 17.50-CL-N/A	                | 03-06-22         	 | UE4.26.1            	    |		https://public.simplyblk.xyz/17.50.zip|
 
-# Season 18 
+# Season 18 (Works)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 18.00-CL-N/A	                | 16-03-21         	 | UE4.26            	    |	(https://drive.google.com/file/d/1aFVVvbmrrK7BykqTVS3XR6nB-Asib5gq/view)|
@@ -212,19 +212,19 @@ If you wish to contribute anything that isn't listed here, DM us On Discord!
 | 18.30-CL-N/A             | 11-05-21        	 | UE4.26.1           	                    |		N/A|
 | 18.40-CL-N/A	                | 03-06-22         	 | UE4.26.1            	    |		N/A|
 
-# Season 19
+# Season 19 (Works)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 19.10-CL-N/A	                | N/A         	 | N/A           	    |	 https://public.simplyblk.xyz/19.10.rar|
 
-# Season 20
+# Season 20 
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 20.10-CL-N/A                 | N/A           | N/A                | https://store-eu-par-2.gofile.io/download/web/c216f08d-e11e-408e-96d5-462c0c76a30f/%2B%2BFortnite%2BRelease-20.10-CL-19598943.zip |
 | 20.40-CL-N/A	                | N/A         	 | N/A           	    |	 N/A |
 
 
-## Season 21
+## Season 21 
 
 21.00-CL-20548557 (21.00) : [Download](https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view)
 
@@ -234,14 +234,14 @@ If you wish to contribute anything that isn't listed here, DM us On Discord!
 
 21.50-CL-21245791 (21.50) : [Download](https://drive.google.com/file/d/1Q2hXieSYw2_aErVaLwle4tzJ75H-OpMj/view?usp=sharing)
 
-## Season 22
+## Season 22 
 
 22.20-CL-23456978 (22.20) : [Download](https://drive.google.com/file/d/1S-2QYBHAs4kk3oxyGC1QL-ZkZKOLx4Vy/view?usp=sharing)
 
 22.40-CL-23849827 (22.40) : [Download](https://drive.google.com/file/d/1oqCsB2etoHMbPQGOytHoMo0BeDi2xN8R/view?usp=sharing) [Manifest file](https://github.com/polynite/fn-releases/raw/master/manifests/yTUVvOU-BiOQgUeuLkavho8cCAt9_g.manifest) [Use Legendary to download build using Manifest](https://github.com/derrod/legendary/releases/latest)
 
 
-## Season 23
+## Season 23 (Works)
 
 23.00-CL-23344627 (23.00)	***Down***
 
