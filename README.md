@@ -32,13 +32,13 @@ If you wish to contribute anything that isn't listed here, DM us On Discord!
 # Season 2 (Works)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ |------------------------------- |
-| 1.11-CL-3807424         	| 14-12-17		 | UE4.19-3807424	    |		https://public.simplyblk.xyz/1.11.zip|
-| 2.1.0-CL-3825894        	| 09-01-18	  	 | UE4.19-3825894	    |		https://public.simplyblk.xyz/2.1.0.zip|
-| 2.2.0-CL-3841827        	| 18-01-18	  	 | UE4.19-3841827	    |		https://public.simplyblk.xyz/2.2.0.rar|
-| 2.3.0-CL-3847564        	| 25-01-18	  	 | UE4.19-3847564	    |		https://public.simplyblk.xyz/2.3.rar|
-| 2.4.0-CL-3858292        	| 01-02-18	  	 | UE4.19-3858292	    |		https://public.simplyblk.xyz/2.4.0.zip|
-| 2.4.2-CL-3870737        	| 07-02-18	  	 | UE4.19-3870737	    |		https://public.simplyblk.xyz/2.4.2.zip|
-| 2.5.0-CL-3889387        	| 13-02-18       	 | UE4.20-3889387	    |	        https://public.simplyblk.xyz/2.5.0.rar|
+| 1.11-CL-3807424         	| 14-12-17		 | UE4.19-3807424	    |		N/A|
+| 2.1.0-CL-3825894        	| 09-01-18	  	 | UE4.19-3825894	    |		N/A|
+| 2.2.0-CL-3841827        	| 18-01-18	  	 | UE4.19-3841827	    |		N/A|
+| 2.3.0-CL-3847564        	| 25-01-18	  	 | UE4.19-3847564	    |		N/A|
+| 2.4.0-CL-3858292        	| 01-02-18	  	 | UE4.19-3858292	    |		N/A|
+| 2.4.2-CL-3870737        	| 07-02-18	  	 | UE4.19-3870737	    |		N/A|
+| 2.5.0-CL-3889387        	| 13-02-18       	 | UE4.20-3889387	|  N/A|
 
 # Season 3 (Works)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
