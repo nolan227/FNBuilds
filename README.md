@@ -18,16 +18,16 @@ If you wish to contribute anything that isn't listed here, DM us On Discord!
 | Cert-CL-3532353                | 20-07-17              | UE4.16-3532353           | N/A |
 | 1.2-CL-3541083         	 |  21-07-17      	 | UE4.16-3541083	    |		N/A |
 
-# Season 0 & 1
+# Season 0 & 1 (back)
 | Build                   	| Date          	 | Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 1.7.2-CL-3700114        	| 17-10-17      	 | UE4.16-3700114	    | N/A |
-back | 1.8-CL-3724489          	| 25-10-17       	 | UE4.16-3724489	    |		https://builds.rebootfn.org/1.8.rar|
-back | 1.8.1-CL-3729133              | 02-11-17               | UE4.16-3729133           | https://builds.rebootfn.org/1.8.1.rar|
-back | 1.8.2-CL-3741772        	| 08-11-17      	 | UE4.16-3741772	    |		https://builds.rebootfn.org/1.8.2.rar|
-back | 1.9-CL-3757339          	| 14-11-17       	 | UE4.16-3757339	    |		https://builds.rebootfn.org/1.9.1.rar|
-back | 1.9.1-CL-3775276        	| 29-11-17       	 | UE4.16-3775276	    |		https://builds.rebootfn.org/1.8.rar|
-back | 1.10-CL-3790078	  	| 06-12-17	   	 | UE4.19-3790078	    |	https://builds.rebootfn.org/1.10.rar|
+| 1.8-CL-3724489          	| 25-10-17       	 | UE4.16-3724489	    |		https://builds.rebootfn.org/1.8.rar|
+| 1.8.1-CL-3729133              | 02-11-17               | UE4.16-3729133           | https://builds.rebootfn.org/1.8.1.rar|
+| 1.8.2-CL-3741772        	| 08-11-17      	 | UE4.16-3741772	    |		https://builds.rebootfn.org/1.8.2.rar|
+| 1.9-CL-3757339          	| 14-11-17       	 | UE4.16-3757339	    |		https://builds.rebootfn.org/1.9.1.rar|
+| 1.9.1-CL-3775276        	| 29-11-17       	 | UE4.16-3775276	    |		https://builds.rebootfn.org/1.8.rar|
+| 1.10-CL-3790078	  	| 06-12-17	   	 | UE4.19-3790078	    |	https://builds.rebootfn.org/1.10.rar|
  
 # Season 2
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
